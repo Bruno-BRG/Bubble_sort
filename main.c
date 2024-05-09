@@ -14,7 +14,7 @@ void bubble_sort(int arr[], int n) {
 }
 
 int main() {
-    int valores[] = {10, 50, 8, 21, 30};
+    int valores[] = {10, 3, 80, 55, 1, 55, 4, 2};
     int n = sizeof(valores) / sizeof(valores[0]);
 
     printf("Valores em ordem crescente:\n");
